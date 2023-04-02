@@ -1,9 +1,8 @@
-import Counter from "./components/Counter";
 
 function App() {
   return (
     <div className="App">
-      <Counter />
+      <h2>base redux</h2>
     </div>
   );
 }
