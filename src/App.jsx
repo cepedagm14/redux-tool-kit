@@ -1,9 +1,9 @@
 
 function App() {
   return (
-    <div className="App">
+    <main className="App">
       <h2>base redux</h2>
-    </div>
+    </main>
   );
 }
 
